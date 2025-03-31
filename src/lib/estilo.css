@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(197, 197, 197);
+}
+
+h1 {
+    color : black;
+    font-family: Andale Mono, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color : black;
+    font-family: Andale Mono, sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color : black;
+    font-family: Andale Mono, sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+    color : black;
+    font-family: Andale Mono, sans-serif;
+}
+
+a {
+    font-family: Andale Mono, sans-serif;
+    font-size:25px;
+}
+
+li {
+    font-family: Andale Mono, sans-serif;
+    font-size: 19px;
+}
+
+p {
+    color : black;
+    font-family: Andale Mono, sans-serif;
+    font-size:25px;
+}
